@@ -16,12 +16,12 @@ By the end of class, you should be able to:
 
 ## Create your own private repository from this template
 
-- We recommend using Chrome or Edge as your web browser.
+- We recommend using Chrome or Edge as your web browser.  This also worked when I tested it on Firefox, but it did not work on Safari.
 - Create your own private version of this repository, using this repository as a template.  Click "Use this template" and choose "Create a new repository". [Instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
 - Then open the repository you just created.
-- Create a new codespace by clicking "Code" on the right side; this step may take a few minutes.
+- Create a new codespace by clicking "Code" on the right side; this step may take a few minutes.  Choose to **trust** the authors of the repository when prompted.
 - Open notebook1.ipynb, and select .venv as the kernel in the top right corner.
-- This didn't work on Safari when we tested it, but it did work on Chrome.
+- This didn't work on Safari when we tested it, but it did work on Chrome and Firefox.  We did not test it on Edge but GitHub recommends Edge as a supported browser as well as Chrome.
 
 ## Including a new package
 
