@@ -20,7 +20,7 @@ By the end of class, you should be able to:
 - Then open the repository you just created.
 - Create a codespace by clicking "Code" on the right side.
 - Open notebook1.ipynb, and select .venv as the kernel.
-- Didn't work on Safari when we tested it.
+- Didn't work on Safari when we tested it, but it did work on Chrome.
 
 ## Including a new package
 
