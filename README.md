@@ -16,11 +16,12 @@ By the end of class, you should be able to:
 
 ## Create your own private repository from this template
 
+- We recommend using Chrome or Edge as your web browser.
 - Create your own private version of this repository, using this repository as a template.  Click "Use this template" and choose "Create a new repository". [Instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
 - Then open the repository you just created.
-- Create a codespace by clicking "Code" on the right side.
-- Open notebook1.ipynb, and select .venv as the kernel.
-- Didn't work on Safari when we tested it, but it did work on Chrome.
+- Create a new codespace by clicking "Code" on the right side; this step may take a few minutes.
+- Open notebook1.ipynb, and select .venv as the kernel in the top right corner.
+- This didn't work on Safari when we tested it, but it did work on Chrome.
 
 ## Including a new package
 
@@ -29,3 +30,8 @@ By the end of class, you should be able to:
 
 ## Commit your changes and push them to your repository on GitHub
 
+This is a four-step process.
+- Save the notebook.
+- Stage your changes.
+- Commit your changes, using an appropriate commit message.
+- Push your changes so that they appear on GitHub.
