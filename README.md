@@ -8,6 +8,7 @@ We’ll explore penguin measurements while practicing with Python, Jupyter noteb
 
 By the end of class, you should be able to:
 
+- Get access to GitHub (our primary workspace) and Deepnote (our backup workspace).
 - Open and work in a GitHub Codespace.
 - Run and edit code and Markdown cells in a Jupyter notebook.
 - Load data from a CSV file and create a scatterplot with Matplotlib.
@@ -35,3 +36,7 @@ This is a four-step process.
 - Stage your changes.
 - Commit your changes, using an appropriate commit message.
 - Push your changes so that they appear on GitHub.
+
+## Backup plan
+
+If we have trouble using a GitHub Codespace as a class, I plan to switch to Deepnote.  Please see the Week 0 page on Canvas for a signup link.
